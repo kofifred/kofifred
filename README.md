@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Fred Nedjoh</h1>
 <h3 align="center">A Senior Frontend Developer from Dallas, Texas</h3>
 
+Senior Frontend Developer with more than 6 years of web development experience in building high-performance presentations, reusable components, and performance optimization with React, Vue, and Back End architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance using React, and Vue. Mainly focus on Front End Development but also available for Back End Development with Node and Django. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack.
+
+Below I give some tags for the search engine and for those who prefer doing quick scanning.
+
+- HTML, CSS / SASS / SCSS, JavaScript / TypeScript, Bootstrap, Tailwind CSS
+- React, Gatsby, Next, Styled-Components
+- Vue, Vuex, Vuetify, Nuxt
+- Redux
+- RESTful / GraphQL
+- Node / Express
+- Python / Django
+- MySQL, MongoDB, PostgreSQL
+- GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
+- Amazon Web Service
+
+
+<br>
+<br>
+
+
 - 🔭 I’m currently working on [ToneItUp](https://my.toneitup.com/)
 
 - 🌱 I’m currently learning **Solidity and Web3.js**
