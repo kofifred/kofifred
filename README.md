@@ -20,8 +20,6 @@ Below I give some tags for the search engine and for those who prefer doing quic
 
 - 🔭 I’m currently working on [ToneItUp](https://my.toneitup.com/)
 
-- 🌱 I’m currently learning **Solidity and Web3.js**
-
 - 👯 I’m looking to collaborate on [makers gym](https://makersgym.com/?public=)
 
 - 🤝 I’m looking for help with [ShipMint](https://goshipmint.com/)
