@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fred Nedjoh</h1>
-<h3 align="center">A Senior Frontend Developer from Dallas, Texas</h3>
+<h3 align="center">A Senior Full-Stack Blockchain Engineer from Dallas, Texas</h3>
 
-Senior Frontend Developer with more than 6 years of web development experience in building high-performance presentations, reusable components, and performance optimization with React, Vue, and Back End architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance using React, and Vue. Mainly focus on Front End Development but also available for Back End Development with Node and Django. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack.
+Senior Full-Stack Blockchain Engineer with more than 6 years of blockchain & web development experience in building high-performance presentations, reusable components, and performance optimization with architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance. Proficient in Git and familiar with Project Management via JIRA, Trello and communication tools like Slack.
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 
-- HTML, CSS / SASS / SCSS, JavaScript / TypeScript, Bootstrap, Tailwind CSS
-- React, Gatsby, Next, Styled-Components
-- Vue, Vuex, Vuetify, Nuxt
-- Redux
-- RESTful / GraphQL
-- Node / Express
-- Python / Django
+- Solidity | Rust | Smart Contracts | DApps | Ethereum | Non-Fungible Tokens (NFTs) | Web3 
+- JavaScript | TypeScript
+- Bootstrap, Tailwind CSS
+- Node, Express, React, Redux, Next, Nuxt, Vue, Vuex, Vuetify
 - MySQL, MongoDB, PostgreSQL
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
-- Amazon Web Service
+- AWS, Azure, GCP
 
 
 <br>
@@ -28,8 +25,6 @@ Below I give some tags for the search engine and for those who prefer doing quic
 - 👯 I’m looking to collaborate on [makers gym](https://makersgym.com/?public=)
 
 - 🤝 I’m looking for help with [ShipMint](https://goshipmint.com/)
-
-- 💬 Ask me about **React, Node, Vue, WP, Shopify, and so on**
 
 - 📫 How to reach me **koficareer@gmail.com**
 
